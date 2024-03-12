@@ -4,9 +4,9 @@ To run the project you need:
 
 "pip install pipenv"
 
-Download "<code>
-git clone https://github.com/Deny672/touching_to_django"
-<code>
+Download 
+<code>git clone https://github.com/Deny672/touching_to_django</code>
+
 "cd touching_to_django"
 
 Create the virtual development environment "python -m venv venv"
