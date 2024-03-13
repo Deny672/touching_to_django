@@ -2,12 +2,12 @@ This repository points to my knowledge of django at the moment.
 
 To run the project you need:
 
-<code>pip install pipenv</code>
-
 Download 
 <code>git clone https://github.com/Deny672/touching_to_django</code>
 
 <code>cd touching_to_django</code>
+
+<code>pip install pipenv</code>
 
 Create the virtual development environment <code>python -m venv venv</code>
 
